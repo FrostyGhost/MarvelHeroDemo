@@ -14,7 +14,7 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.fg.marvelherodemo.R
 import com.fg.marvelherodemo.apimodel.Character
-import com.squareup.picasso.Picasso
+
 
 class MarvelHeroAdapter (private val items: List<Character>) : RecyclerView.Adapter<MarvelHeroAdapter.MarvelHeroHolder>()  {
 
