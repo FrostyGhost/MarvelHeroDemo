@@ -13,7 +13,7 @@ import io.reactivex.Observable
 
 class CharactersRepository(private val apiService: CharacterApi) {
 
-    private val defaultLimit = 25
+        private val defaultLimit = 25
 
     var offset = 0
 
@@ -22,8 +22,10 @@ class CharactersRepository(private val apiService: CharacterApi) {
     //You can get the keys here
     //https://developer.marvel.com/account
 
-    private var publicKey = "Insert your publicKey here"
-    private var privateKey = "Insert your privateKey here"
+    private var privateKey = "19c725832751df3f3752235b9c462a593ab8f555"
+    private var publicKey = "9e85c2254a034ab9af74082c61ab47eb"
+//    private var publicKey = "Insert your publicKey here"
+//    private var privateKey = "Insert your privateKey here"
 
     private val hash = Utils.md5(timestamp.toString() + privateKey + publicKey)
 
