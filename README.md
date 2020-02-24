@@ -6,7 +6,9 @@ Download Marvel Heroes.
 To work, you need to insert your keys into the package networking/CharactersRepository
 
 
-![Image alt](https://www.dropbox.com/s/6l9x87uidaioldr/photo_2020-02-24_12-29-35.jpg?dl=0)
+![Screen_1](https://github.com/FrostyGhost/MarvelHeroDemo/blob/master/app/src/main/res/drawable/photo_2.jpg)
+
+![Screen_2](https://github.com/FrostyGhost/MarvelHeroDemo/blob/master/app/src/main/res/drawable/photo_1.jpg)
 
 
-![Image alt](https://www.dropbox.com/s/knfy7zmte61bren/photo_2020-02-24_12-29-36.jpg?dl=0)
+
