@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MarvelHeroDemo</string>
+
+    <string name="private_key">afb4777036bb5d99a9f9ff86b14c35e2928a01d8</string>
+    <string name="api_key">bb289d6b94c4a8f61db21938f58d8f07</string>
+    <string name="marvel_characters">Marvel Characters</string>
+    <string name="description">Description</string>
+    <string name="comics">Comics</string>
+    <string name="series">Series</string>
+    <string name="links">Links</string>
+    <string name="ok">Гаразд :(</string>
+    <string name="text">Схоже, що відсутній інтернет, спробуй пізніше</string>
 </resources>

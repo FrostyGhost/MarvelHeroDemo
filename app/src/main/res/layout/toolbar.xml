@@ -1,0 +1,32 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_vertical"
+    android:id="@+id/toolbar_main"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    app:theme="@style/ToolBarMainActivity"
+    android:background="@color/colorPrimaryTr"
+    >
+
+    <ImageView
+        android:id="@+id/ivToolbarBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|center"
+        android:visibility="gone"
+        app:srcCompat="@drawable/ic_chevron_left" />
+
+    <TextView
+        android:id="@+id/tvToolbarName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="16dp"
+        android:layout_weight="0.1"
+        android:gravity="center"
+        android:text="@string/marvel_characters"
+        android:textColor="@color/blackColor"
+        android:textSize="20sp" />
+
+</LinearLayout>
