@@ -20,7 +20,7 @@
         <activity
             android:name=".ui.activity.SplashScreen"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-            android:screenOrientation="reversePortrait">
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,7 +28,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ui.activity.HeroActivity"
-            android:screenOrientation="reversePortrait"/>
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>
