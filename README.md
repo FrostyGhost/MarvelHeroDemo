@@ -12,3 +12,5 @@ To work, you need to insert your keys into the package networking/CharactersRepo
 
 
 
+Тестове завдання для DevLight.
+Для роботи вам потрібно вставити ключі в пакет networking/CharactersRepository
